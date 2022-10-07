@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrismaGaming123
 - 👀 I’m interested in building software that better all of man kind
-- 🌱 I’m currently learning software engineering at Arizona Stat University
+- 🌱 I’m currently learning software engineering at Arizona State University
 - 💞️ I’m looking to collaborate on simple and large projects
 - 📫 How to reach me by email or phone
 
