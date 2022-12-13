@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PrismaGaming123
+- 👋 Hi, I’m @Arnold Shibu-Thomas
 - 👀 I’m interested in building software that better all of man kind
 - 🌱 I’m currently learning software engineering at Arizona State University
 - 💞️ I’m looking to collaborate on simple and large projects
