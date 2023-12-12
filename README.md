@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on a Java health app<br>🌱 Currently trying to learn mobile and web app development <br>💬 Ask me about my favorite programming language <br>⚡Fun Fact: I am learning about cloud computing on AWS and I hope to use it soon
+🔭 I am currently working on a flutter messaging app<br>🌱 Currently trying to learn mobile and web app development <br>💬 Ask me about my favorite programming language <br>⚡Fun Fact: I am learning about cloud computing on AWS and I hope to use it soon
 
 
 ## 🌐 Socials:
